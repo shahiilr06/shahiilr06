@@ -53,56 +53,25 @@ I am an **AI Engineer** specializing in **Agentic AI, Generative AI, and Multimo
 
 ## 🛠️ Tech Stack & Skills
 
+```
+ ╭─────────────────┬──────────────────────────────────────────────────────────────╮
+ │  🤖  Agentic AI │  LangGraph · CrewAI · LangChain · LlamaIndex · MCP           │
+ ├─────────────────┼──────────────────────────────────────────────────────────────┤
+ │  🧬  Foundation │  MedGemma-27B · Hugging Face Transformers · OpenAI Whisper    │
+ ├─────────────────┼──────────────────────────────────────────────────────────────┤
+ │  🧠  Deep Learn │  PyTorch · EfficientNetV2 · Grad-CAM · Scikit-Learn · OpenCV  │
+ ├─────────────────┼──────────────────────────────────────────────────────────────┤
+ │  ⚡  Backend    │  FastAPI · Python 3.11 · Java · PostgreSQL · REST APIs         │
+ ├─────────────────┼──────────────────────────────────────────────────────────────┤
+ │  🗣️  Voice AI   │  Tamil STT/TTS · Whisper ASR · Multilingual NLP Pipelines     │
+ ├─────────────────┼──────────────────────────────────────────────────────────────┤
+ │  ☁️  Cloud      │  Docker · AWS · Modal GPU · Linux · Git · GitHub Actions       │
+ ╰─────────────────┴──────────────────────────────────────────────────────────────╯
+```
+
 <div align="center">
-
-<!-- ── Row 1: Languages & Core ML ── -->
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,opencv&theme=dark" />
-
-<br/><br/>
-
-<!-- ── Row 2: Agentic / GenAI badges ── -->
-<img src="https://img.shields.io/badge/🤖_LangGraph-State_Machines-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔗_LangChain-RAG_Chains-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🛸_CrewAI-Agent_Swarms-FF5A50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🦙_LlamaIndex-Retrieval-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🩺_MedGemma-Clinical_LLM-008080?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔌_MCP-Model_Context_Protocol-0052CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-Transformers-FFD21E?style=for-the-badge&logoColor=black" />
-
-<br/><br/>
-
-<!-- ── Row 3: Backend, Cloud & DB icons ── -->
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,linux,git&theme=dark" />
-
-<br/><br/>
-
-<!-- ── Row 4: Voice AI & Vision badges ── -->
-<img src="https://img.shields.io/badge/🗣️_STT-Speech_to_Text-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔊_TTS-Text_to_Speech-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌐_Tamil_NLP-Vernacular_AI-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/👁️_Grad--CAM-Explainable_Vision-EE4C2C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🩻_EfficientNetV2-Medical_Imaging-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎙️_Whisper-OpenAI_ASR-00A67E?style=for-the-badge" />
-
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,fastapi,docker,aws,postgres,linux,git&theme=dark" />
 </div>
-
-<br/>
-
-```
-╔══════════════════╦══════════════════════════════════════════════════════════════════╗
-║  🤖  Agentic AI  ║  LangGraph · CrewAI · LangChain · LlamaIndex · MCP              ║
-╠══════════════════╬══════════════════════════════════════════════════════════════════╣
-║  🧬  Foundation  ║  MedGemma-27B · Hugging Face Transformers · OpenAI Whisper       ║
-╠══════════════════╬══════════════════════════════════════════════════════════════════╣
-║  🧠  Deep Learn  ║  PyTorch · EfficientNetV2 · Grad-CAM · Scikit-Learn · OpenCV     ║
-╠══════════════════╬══════════════════════════════════════════════════════════════════╣
-║  ⚡  Backend     ║  FastAPI · Python 3.11 · Java · PostgreSQL · REST APIs            ║
-╠══════════════════╬══════════════════════════════════════════════════════════════════╣
-║  🗣️  Voice AI    ║  Tamil STT/TTS · Whisper ASR · Multilingual NLP Pipelines        ║
-╠══════════════════╬══════════════════════════════════════════════════════════════════╣
-║  ☁️  Cloud       ║  Docker · AWS · Modal GPU · Linux · Git · GitHub Actions          ║
-╚══════════════════╩══════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
