@@ -53,24 +53,25 @@ I am an **AI Engineer** specializing in **Agentic AI, Generative AI, and Multimo
 
 ## 🛠️ Tech Stack & Skills
 
-```
- ╭─────────────────┬──────────────────────────────────────────────────────────────╮
- │  🤖  Agentic AI │  LangGraph · CrewAI · LangChain · LlamaIndex · MCP           │
- ├─────────────────┼──────────────────────────────────────────────────────────────┤
- │  🧬  Foundation │  MedGemma-27B · Hugging Face Transformers · OpenAI Whisper    │
- ├─────────────────┼──────────────────────────────────────────────────────────────┤
- │  🧠  Deep Learn │  PyTorch · EfficientNetV2 · Grad-CAM · Scikit-Learn · OpenCV  │
- ├─────────────────┼──────────────────────────────────────────────────────────────┤
- │  ⚡  Backend    │  FastAPI · Python 3.11 · Java · PostgreSQL · REST APIs         │
- ├─────────────────┼──────────────────────────────────────────────────────────────┤
- │  🗣️  Voice AI   │  Tamil STT/TTS · Whisper ASR · Multilingual NLP Pipelines     │
- ├─────────────────┼──────────────────────────────────────────────────────────────┤
- │  ☁️  Cloud      │  Docker · AWS · Modal GPU · Linux · Git · GitHub Actions       │
- ╰─────────────────┴──────────────────────────────────────────────────────────────╯
-```
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,fastapi,docker,aws,postgres,linux,git&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,postgres,docker,aws,linux,git,opencv&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=python&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white" />
+<img src="https://img.shields.io/badge/MedGemma-008080?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-0052CC?style=flat-square&logo=protocol&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Whisper-00A67E?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Grad--CAM-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/EfficientNetV2-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Modal%20GPU-000000?style=flat-square&logo=nvidia&logoColor=76B900" />
+<img src="https://img.shields.io/badge/Tamil%20NLP-10B981?style=flat-square&logo=google-translate&logoColor=white" />
+
 </div>
 
 ---
@@ -119,12 +120,6 @@ I am an **AI Engineer** specializing in **Agentic AI, Generative AI, and Multimo
     </td>
   </tr>
 </table>
-
-<br/>
-
-### 🐍 Contribution Activity Flow
-
-<img src="https://raw.githubusercontent.com/shahiilr06/shahiilr06/output/github-contribution-grid-snake-dark.svg" alt="3D GitHub Contribution Snake" width="100%" />
 
 </div>
 
