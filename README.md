@@ -1,81 +1,154 @@
 <div align="center">
 
-<img src="hero-3d.svg" width="100%" alt="Animated 3D agent network" />
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 3D DYNAMIC WAVING CYBER HEADER                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24,30&height=220&section=header&text=SHAHIIL%20R&fontSize=42&fontAlignY=38&desc=%E2%9A%A1%20Agentic%20AI%20%C2%B7%20Generative%20AI%20%C2%B7%20Multi-Agent%20Systems%20%E2%9A%A1&descAlignY=60&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- DYNAMIC NEON TYPING SVG                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/shahiilr06">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1100&color=2DD4BF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=100&lines=%E2%96%B6+Agentic+AI+%C2%B7+Generative+AI+%C2%B7+Autonomous+Multi-Agent+Systems;%E2%96%B6+MedGemma+%C2%B7+Model+Context+Protocol+(MCP)+%C2%B7+LangGraph;%E2%96%B6+Multilingual+Tamil+%26+English+Voice+AI+Pipelines;%E2%96%B6+Final-Year+B.Tech+AI+at+Karunya+%C2%B7+Open+to+AI%2FML+Roles" alt="Dynamic Typing Intro" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=SHAHIIL+R;Agentic+AI+Engineer;Healthcare+AI+%C2%B7+Multilingual+Voice+%C2%B7+RAG" alt="Typing intro" />
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- STATUS BADGES                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+[![Status](https://img.shields.io/badge/Status-B.Tech_AI_%2726-6366F1?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/shahiilr06)
+[![Focus](https://img.shields.io/badge/Focus-Agentic_AI_%26_RAG-2DD4BF?style=flat-square&logo=openai&logoColor=black)](https://github.com/shahiilr06)
+[![Location](https://img.shields.io/badge/Location-Coimbatore%2C_India-0B0D14?style=flat-square&logo=googlemaps&logoColor=EA4335)](https://maps.google.com)
+[![Open To](https://img.shields.io/badge/Open_To-AI%2FML_Roles-10B981?style=flat-square&logo=target&logoColor=white)](mailto:shahiilr06@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=shahiilr06&label=Profile+Views&color=2DD4BF&style=flat-square)](https://github.com/shahiilr06)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-shahiilr06%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:shahiilr06@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahiil--r-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahiil-r/)
-[![GitHub](https://img.shields.io/badge/GitHub-shahiilr06-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahiilr06)
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- QUICK ACTION CALL TO ACTIONS                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-</div>
-
----
-
-## About
-
-Final-year B.Tech AI student building agentic and generative AI systems for healthcare and multilingual, voice-first products. I focus on turning research ideas into deployable software, with a goal of Scopus-indexed publication.
-
-## Focus
-
-- **Agentic AI:** multi-agent systems with LangGraph and CrewAI
-- **LLM applications:** retrieval-augmented generation (RAG) and FastAPI services
-- **Healthcare AI:** medical imaging and clinical decision support
-- **Voice:** speech-to-text and text-to-speech, including Tamil
-
-## Featured work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Agentic Second-Opinion System** *(in progress)* | Multi-agent triage support for rural clinics | MedGemma, MCP, LangGraph, FastAPI |
-| **Bone Fracture Detection** | X-ray diagnosis with explainable heatmaps and voice reports | EfficientNetV2, Grad-CAM, Streamlit |
-| **Agentic Hotel Assistant** | Multilingual voice booking and customer support agents | CrewAI, FastAPI, STT, TTS |
-| **Health Chatbot** | AI triage and emergency assistance | MedGemma, FastAPI, MCP |
-
-## Experience
-
-**Software Intern, Uniq Technologies** · May to June 2026
-Python and generative AI application development.
-
-## Recognition
-
-- 🥈 **2nd Place**, StartupTN Tamizhi Language Technology Hackathon
-- 🏅 **Top 20**, Shine Healthcare Hackathon
-
-## Skills
-
-**Languages:** Python · Java · SQL
-
-**AI:** LLMs · RAG · Agentic AI · NLP · Deep Learning · Computer Vision
-
-**Frameworks:** LangChain · LangGraph · CrewAI · LlamaIndex · Hugging Face · FastAPI
-
-**Tools and cloud:** AWS · Docker · Linux · Git
-
-## Certifications
-
-AWS · Microsoft & Scaler · DeepLearning.AI · Activeloop · Hugging Face · Agenticacademy.ai
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahiilr06&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahiilr06&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-**Open to AI/ML engineering roles and research collaborations.**
-
-[![Email](https://img.shields.io/badge/Email-Say_hello-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahiilr06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahiil-r/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahiilr06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahiilr06)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am an **AI Engineer** specializing in **Agentic AI, Generative AI, and Multimodal Systems**. Currently in my final year of **B.Tech CSE (Artificial Intelligence)** at **Karunya Institute of Technology and Sciences**. I focus on taking AI models out of notebooks into reliable, real-world systems with strict safety constraints and vernacular accessibility.
+
+- 🔭 **Currently Building:** Multi-agent clinical triage systems with MedGemma, MCP & Tamil Voice
+- 🧠 **Core Interests:** Autonomous Agentic Swarms · Multimodal Computer Vision · RAG · Speech AI
+- 💼 **Industry Experience:** Software Intern at **Uniq Technologies** (Python & GenAI)
+- 🎯 **Seeking:** Full-time AI/ML Engineer, Generative AI, and Agentic Systems roles
+- 📍 **Based in:** Coimbatore, Tamil Nadu, India
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+<!-- 3D / Isometric Skillicons Banner -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,postgres,linux,git,ts,react,tailwind,postman&theme=dark" alt="3D Tech Stack" />
+
+</div>
+
+<br/>
+
+- **🤖 Agentic & GenAI:** LangGraph · CrewAI · LangChain · LlamaIndex · MedGemma · Model Context Protocol (MCP) · Hugging Face
+- **🧠 Vision & Deep Learning:** PyTorch · EfficientNetV2 · Grad-CAM · Scikit-Learn · OpenCV
+- **⚡ Backend & Voice AI:** FastAPI · Python · Java · PostgreSQL · Speech-to-Text (STT) · Text-to-Speech (TTS)
+- **☁️ Cloud & Infrastructure:** Docker · AWS · Modal GPU · Linux · Git & GitHub Actions
+
+---
+
+## ⚡ Featured Projects
+
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| [**Autonomous Rural Diagnostic Triage**](https://github.com/shahiilr06) | Multi-agent clinical triage system with MedGemma over MCP and Tamil/English voice pipelines. | `LangGraph` `MedGemma` `MCP` `FastAPI` | 🚀 Active |
+| [**Bone Fracture Multimodal Diagnosis**](https://github.com/shahiilr06) | Orthopedic X-ray fracture detection with Grad-CAM visual heatmaps and audio reports. | `PyTorch` `EfficientNet` `Grad-CAM` `Modal` | 🟢 Shipped |
+| [**Emergency Health Chatbot**](https://github.com/shahiilr06) | Real-time triage assistant with MCP integration, SOS alerts, and hospital discovery. | `MedGemma-27B` `FastAPI` `Docker` | 🏅 Top 20 |
+| [**Autonomous Multilingual Hotel Agent**](https://github.com/shahiilr06) | Multi-agent concierge handling autonomous booking, room service dispatch, and voice assistance. | `CrewAI` `FastAPI` `Whisper` `Python` | ⚡ Shipped |
+
+---
+
+## 🏆 Honors & Recognition
+
+- 🥈 **2nd Place Winner** — StartupTN *Tamizhi* Language Technology Hackathon (Tamil Speech NLP interfaces)
+- 🏅 **Top 20 Finalist** — Shine Healthcare Hackathon (Autonomous Health Chatbot with MedGemma-27B)
+- 📜 **Certified Credentials:** AWS ML & GenAI · Microsoft & Scaler Deep Learning/NLP · DeepLearning.AI Prompt Engineering · Activeloop Production RAG · Hugging Face MCP
+
+---
+
+## 📊 3D Trophies & Live Telemetry
+
+<div align="center">
+
+<!-- 3D Trophies Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=shahiilr06&theme=tokyonight&no-frame=true&column=6&margin_w=10&margin_h=10" alt="Shahiil 3D GitHub Trophies" />
+
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shahiilr06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0D14&title_color=2DD4BF&icon_color=6366F1&text_color=E2E8F0" height="165" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=shahiilr06&theme=tokyonight&hide_border=true&background=0B0D14&fire=2DD4BF&ring=6366F1&currStreakLabel=2DD4BF" height="165" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahiilr06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0D14&title_color=2DD4BF&text_color=E2E8F0" height="165" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🐍 Contribution Activity Flow
+
+<img src="https://raw.githubusercontent.com/shahiilr06/shahiilr06/output/github-contribution-grid-snake-dark.svg" alt="3D GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>💬 Let's Connect & Build Something That Matters</h3>
+
+<br/>
+
+<a href="mailto:shahiilr06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-shahiilr06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shahiil-r/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Shahiil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shahiilr06">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20%40shahiilr06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 3D DYNAMIC WAVING CYBER FOOTER                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,20,11,1&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
