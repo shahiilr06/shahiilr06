@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-3d.svg" width="100%" alt="Animated 3D agent network" />
+<img src="hero-3d.svg" width="100%" alt="Animated 3D agent network" />
 
 <br/>
 
